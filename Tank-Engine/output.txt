@@ -1,0 +1,48 @@
+Engine started.
+Added a tank [ID: 1] and capacity of 100.000000
+Added a tank [ID: 2] and capacity of 150.000000
+Added a tank [ID: 3] and capacity of 500.000000
+Added a tank [ID: 4] and capacity of 250.000000
+Added a tank [ID: 5] and capacity of 100.000000
+Tank [ID: 1] is completely topped up to full capacity 100.000000.
+Tank [ID: 2] is completely topped up to full capacity 150.000000.
+Tank [ID: 3] is topped up with 100.000000 fuel.
+Tank [ID: 1] is connected.
+Tank [ID: 2] is connected.
+Tank [ID: 3] is connected.
+Engine ran out of fuel and stopped.
+Tank [ID: 4] is connected.
+Tank [ID: 5] is removed.
+Tank [ID: 5] could not be found.
+Tank [ID: 4] is disconnected.
+The valve of Tank [ID: 1] is opened.
+The valve of Tank [ID: 2] is opened.
+Engine started.
+Engine ran out of fuel and stopped.
+Tank ID: 1	Capacity: 100.000000	Fuel quantity: 100.000000	Broken status: 0	Valve status: 1
+Tank ID: 2	Capacity: 150.000000	Fuel quantity: 150.000000	Broken status: 0	Valve status: 1
+Tank ID: 3	Capacity: 500.000000	Fuel quantity: 100.000000	Broken status: 0	Valve status: 0
+Tank ID: 4	Capacity: 250.000000	Fuel quantity: 0.000000	Broken status: 0	Valve status: 0
+Fuel Tank Count: 4
+Total Fuel Quantity: 350.000000
+Total Consumed Fuel Quantity: 55.000000
+ID: 1	Capacity: 100.000000	Fuel quantity: 100.000000	Broken status: 0	Valve status: 1
+ID: 2	Capacity: 150.000000	Fuel quantity: 150.000000	Broken status: 0	Valve status: 1
+ID: 1	Capacity: 100.000000	Fuel quantity: 100.000000	Broken status: 0	Valve status: 1
+ID: 2	Capacity: 150.000000	Fuel quantity: 150.000000	Broken status: 0	Valve status: 1
+ID: 3	Capacity: 500.000000	Fuel quantity: 100.000000	Broken status: 0	Valve status: 0
+The valve of Tank [ID: 1] is opened.
+The valve of Tank [ID: 2] is opened.
+The valve of Tank [ID: 3] is opened.
+ID: 1	Capacity: 100.000000	Fuel quantity: 0.000000	Broken status: 0	Valve status: 1
+ID: 2	Capacity: 150.000000	Fuel quantity: 0.000000	Broken status: 0	Valve status: 1
+ID: 3	Capacity: 500.000000	Fuel quantity: 350.000000	Broken status: 0	Valve status: 1
+Tank 1 : Simulation stopped.
+Tank 2 : Simulation stopped.
+Tank 3 : Simulation stopped.
+Tank 4 : Simulation stopped.
+Valve 1 : Simulation stopped.
+Valve 2 : Simulation stopped.
+Valve 3 : Simulation stopped.
+Valve 4 : Simulation stopped.
+Valve 5 : Simulation stopped.
